@@ -1,4 +1,4 @@
-# 3394. Check if Grid can be Cut into Sections
+#3394. Check if Grid can be Cut into Sections
 #horizontal and vertical sweeping to count gaps between rectangles to section area into 3 parts with lines
 
 class Solution:
